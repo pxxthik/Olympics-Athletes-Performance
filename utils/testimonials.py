@@ -8,7 +8,7 @@ def show_testimonials():
     <div class="testimonials-container">
         <div class="testimonials-track">
             <!-- Testimonials (duplicated for seamless scroll) -->
-            <div class="testimonial">🤖<br><strong>Alex 🇨🇦</strong><br><p>"Loved the LLM insights!"</p></div>
+            <div class="testimonial">🤖<br><strong>Nanditha JP</strong><br><p>"Loved the LLM insights!"</p></div>
             <div class="testimonial">📊<br><strong>Mina 🇯🇵</strong><br><p>"Beautiful and clean design!"</p></div>
             <div class="testimonial">🔥<br><strong>Carlos 🇧🇷</strong><br><p>"Modular and fast. Great work!"</p></div>
             <div class="testimonial">🚀<br><strong>Emma 🇬🇧</strong><br><p>"Perfect for analysis practice."</p></div>
